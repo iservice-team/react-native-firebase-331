@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/701ebc84da958be5477931c8d0ad8375/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/701ebc84da958be5477931c8d0ad8375/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

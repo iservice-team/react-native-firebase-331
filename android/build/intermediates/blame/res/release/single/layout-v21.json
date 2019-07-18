@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/caa038e930f9ee6466717250bdd14d45/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/caa038e930f9ee6466717250bdd14d45/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/caa038e930f9ee6466717250bdd14d45/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/caa038e930f9ee6466717250bdd14d45/res/layout-v21/notification_action.xml"
+    }
+]

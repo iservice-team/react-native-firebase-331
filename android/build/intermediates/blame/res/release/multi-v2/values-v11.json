@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/22f67ffe1df67268b47c0ba3a2752c86/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "172",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/teeraphongchaichalermpreecha/Documents/ISERVICE_WORKSPACE/iservice-app/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/teeraphongchaichalermpreecha/.gradle/caches/transforms-2/files-2.1/22f67ffe1df67268b47c0ba3a2752c86/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "172",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        }
+    ]
+}
